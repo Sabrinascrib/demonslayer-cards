@@ -16,5 +16,11 @@ export const imgs = [
 	},
 	{
 		img: 'https://anime.atsit.in/de/wp-content/uploads/2022/09/zenitsu-agatsuma-von-demon-slayer-erhalt-geburtstagstrailer.jpg'
+	},
+	{
+		img: 'https://tierragamer.com/wp-content/uploads/2021/10/Kimetsu-no-Yaiba-Kanao-Ysuyuri-Mariposa.jpg'
+	},
+	{
+		img: 'https://www.looper.com/img/gallery/this-is-the-strongest-demon-in-demon-slayer/muzan-kibutsuji-is-the-most-powerful-demon-in-demon-slayer-1622585900.jpg'
 	}
 ];
